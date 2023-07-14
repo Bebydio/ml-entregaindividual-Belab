@@ -1,0 +1,24 @@
+{
+  "name": "ml-entregaindividual-belab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app",
+    "dev":"npx nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bebydio/ml-entregaindividual-Belab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bebydio/ml-entregaindividual-Belab/issues"
+  },
+  "homepage": "https://github.com/Bebydio/ml-entregaindividual-Belab#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
